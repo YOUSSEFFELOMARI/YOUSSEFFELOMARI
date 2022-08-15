@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Youssef ELOMARI</h1>
-<h3 align="center">A passionate backend developer from Morocco</h3>
+<h3 align="center">A Passionate Backend Developer From Morocco</h3>
 <img align="right" alt="CODING" width="400" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yousseffelomari&label=Profile%20views&color=0e75b6&style=flat" alt="yousseffelomari" /> </p>
@@ -25,6 +25,6 @@
 <br>
 <p style="margin-bottom:200px;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousseffelomari&show_icons=true&locale=en&layout=compact" alt="yousseffelomari"  /></p>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yousseffelomari&show_icons=true&locale=en" alt="yousseffelomari" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=yousseffelomari&show_icons=true&locale=en" alt="yousseffelomari" /></p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yousseffelomari&" alt="yousseffelomari" /></p>
