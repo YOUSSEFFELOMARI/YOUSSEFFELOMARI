@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Java, Spring**
 
-- 📫 How to reach me **https://www.linkedin.com/in/youssef-elomari-2744a3231/**
+- 📫 How to reach me **https://www.linkedin.com/in/youssef-elomari/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
