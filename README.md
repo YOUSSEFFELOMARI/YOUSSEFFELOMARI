@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/YOUSSEFFELOMARI](https://github.com/YOUSSEFFELOMARI)
 
-- 💬 Ask me about **Java, Spring**
+- 💬 Ask me about **Java, Spring, Angular**
 
 - 📫 How to reach me **https://www.linkedin.com/in/youssef-elomari/**
 
