@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/youssef_el_ing" target="blank"><img src="https://img.shields.io/twitter/follow/youssef_el_ing?logo=twitter&style=for-the-badge" alt="youssef_el_ing" /></a> </p>
 
-- 🌱 I’m currently learning **C#, Spring Boot**
+- 🌱 I’m **Junior Software Engineer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/YOUSSEFFELOMARI](https://github.com/YOUSSEFFELOMARI)
 
