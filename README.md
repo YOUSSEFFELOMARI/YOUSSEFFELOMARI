@@ -15,11 +15,11 @@
 
 - 🌱 I’m **Software Engineer**
 
-- 👨‍💻 All of my projects are available at [YOUSSEFFELOMARI](https://github.com/YOUSSEFFELOMARI)
+- 👨‍💻 All of my projects are available at [Youssef ELOMARI](https://github.com/YOUSSEFFELOMARI)
 
 - 💬 Ask me about **Java, Spring, Angular**
 
-- 📫 How to reach me [YOUSSEFFELOMARI](www.linkedin.com/in/youssef-elomari)
+- 📫 How to reach me [Youssef ELOMARI](www.linkedin.com/in/youssef-elomari)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
