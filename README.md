@@ -79,7 +79,7 @@
 </p>
 <br>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousseffelomari&show_icons=true&locale=en&layout=compact" alt="yousseffelomari" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousseffelomari&show_icons=true&locale=en&layout=compact" alt="yousseffelomari" />
 </p>
 <br>
 <p>
@@ -87,6 +87,5 @@
 </p>
 <br>
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yousseffelomari&theme=buefy&date_format=n%2Fj%5B%2FY%5D&card_height=170" alt="GitHub Streak" />
-<!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yousseffelomari&" alt="yousseffelomari" /> -->
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=yousseffelomari&theme=buefy&date_format=n%2Fj%5B%2FY%5D&card_height=170" alt="yousseffelomari" />
 </p>
