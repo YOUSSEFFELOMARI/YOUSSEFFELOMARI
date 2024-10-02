@@ -81,11 +81,9 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousseffelomari&show_icons=true&locale=en&layout=compact" alt="yousseffelomari" />
 </p>
-<br>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yousseffelomari&show_icons=true&locale=en" alt="yousseffelomari" />
 </p>
-<br>
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=yousseffelomari&theme=buefy&date_format=n%2Fj%5B%2FY%5D&card_height=170" alt="yousseffelomari" />
 </p>
