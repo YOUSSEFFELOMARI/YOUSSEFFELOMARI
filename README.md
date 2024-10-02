@@ -21,7 +21,7 @@
 
 - 📫 How to reach me [Youssef ELOMARI](www.linkedin.com/in/youssef-elomari)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> Connect with me: </h3>
 <p align="left">
   <a href="https://twitter.com/youssef_el_ing" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="youssef_el_ing" height="30" width="40" margine-right="10px" />
@@ -87,5 +87,6 @@
 </p>
 <br>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yousseffelomari&" alt="yousseffelomari" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yousseffelomari&theme=buefy&date_format=n%2Fj%5B%2FY%5D&card_height=170" alt="GitHub Streak" />
+<!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yousseffelomari&" alt="yousseffelomari" /> -->
 </p>
